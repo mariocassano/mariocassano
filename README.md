@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mariocassano
 - 👀 I’m interested in Artificial Intelligence and Data Science
-- 🌱 I’m currently learning Artificial Intelligence and Data Science
+- 🌱 I’m currently learning AI in Python
 - 📫 How to reach me: mcassano335@gmail.com
